@@ -13,6 +13,7 @@
 		52D390D62AE042C4000974A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D390D52AE042C4000974A0 /* Preview Assets.xcassets */; };
 		52D390DD2AE04AD2000974A0 /* DateTimeExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D390DC2AE04AD2000974A0 /* DateTimeExamples.swift */; };
 		52D390DF2AE04B7D000974A0 /* StepperExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D390DE2AE04B7D000974A0 /* StepperExample.swift */; };
+		52D390E12AE07D5C000974A0 /* MachineLearningExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D390E02AE07D5C000974A0 /* MachineLearningExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		52D390D52AE042C4000974A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52D390DC2AE04AD2000974A0 /* DateTimeExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTimeExamples.swift; sourceTree = "<group>"; };
 		52D390DE2AE04B7D000974A0 /* StepperExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperExample.swift; sourceTree = "<group>"; };
+		52D390E02AE07D5C000974A0 /* MachineLearningExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MachineLearningExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				52D390D42AE042C4000974A0 /* Preview Content */,
 				52D390DC2AE04AD2000974A0 /* DateTimeExamples.swift */,
 				52D390DE2AE04B7D000974A0 /* StepperExample.swift */,
+				52D390E02AE07D5C000974A0 /* MachineLearningExample.swift */,
 			);
 			path = BetterRest;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				52D390DD2AE04AD2000974A0 /* DateTimeExamples.swift in Sources */,
 				52D390DF2AE04B7D000974A0 /* StepperExample.swift in Sources */,
 				52D390CF2AE042C3000974A0 /* BetterRestApp.swift in Sources */,
+				52D390E12AE07D5C000974A0 /* MachineLearningExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
