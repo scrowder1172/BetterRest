@@ -92,7 +92,7 @@ struct ContentView: View {
                 Text(wakeUpMessage)
                     .multilineTextAlignment(.center)
             }
-            .font(.system(size: 35).bold())
+            .font(.system(size: 30).bold())
             
             Spacer()
         }
