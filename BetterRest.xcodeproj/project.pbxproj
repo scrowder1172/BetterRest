@@ -40,6 +40,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		52537A732AF142660093D751 /* TutorialFiles */ = {
+			isa = PBXGroup;
+			children = (
+				52D390DC2AE04AD2000974A0 /* DateTimeExamples.swift */,
+				52D390DE2AE04B7D000974A0 /* StepperExample.swift */,
+				52D390E02AE07D5C000974A0 /* MachineLearningExample.swift */,
+			);
+			path = TutorialFiles;
+			sourceTree = "<group>";
+		};
 		52D390C22AE042C3000974A0 = {
 			isa = PBXGroup;
 			children = (
@@ -63,10 +73,8 @@
 				52D390D02AE042C3000974A0 /* ContentView.swift */,
 				525EE1682AE19B7B004294A2 /* SleepCalculator.mlmodel */,
 				52D390D22AE042C4000974A0 /* Assets.xcassets */,
+				52537A732AF142660093D751 /* TutorialFiles */,
 				52D390D42AE042C4000974A0 /* Preview Content */,
-				52D390DC2AE04AD2000974A0 /* DateTimeExamples.swift */,
-				52D390DE2AE04B7D000974A0 /* StepperExample.swift */,
-				52D390E02AE07D5C000974A0 /* MachineLearningExample.swift */,
 			);
 			path = BetterRest;
 			sourceTree = "<group>";
